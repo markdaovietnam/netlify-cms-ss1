@@ -3,7 +3,7 @@
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
     "glob": "^7.1.6",
-    "sharp": "^0.24.0"
+    "sharp": "^0.32.6"
   },
   "scripts": {
     "serve": "node optimize.js && npx @11ty/eleventy --serve",
